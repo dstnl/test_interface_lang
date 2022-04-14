@@ -1,10 +1,10 @@
 # test_interface_lang
 Stepik course > 3.6.9
 
-- `pytest test_items.py -ra -v --browser_name=firefox --language=es`
-- `pytest test_items.py -ra -v --browser_name=firefox --language=fr`
-- `pytest test_items.py -ra -v --browser_name=chrome --language=es`
-- `pytest test_items.py -ra -v --browser_name=chrome --language=fr`
+- `pytest test_items.py -v --browser_name=firefox --language=es`
+- `pytest test_items.py -v --browser_name=firefox --language=fr`
+- `pytest test_items.py -v --browser_name=chrome --language=es`
+- `pytest test_items.py -v --browser_name=chrome --language=fr`
 
 ### Ваше решение будет проверяться по следующим критериям:
 
